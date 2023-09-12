@@ -12,6 +12,10 @@
             Console.WriteLine("My potato doesn't synchronise with Git!!");
 
             //weird stuff still can't synchronise
+
+
+            //ok it worked fine, now trying to update it one more time
+            //please work!
         }
     }
 }
